@@ -1,6 +1,6 @@
 # Focus music for coding
 
-[![CI](https://github.com/JJ-Dynamite/faang-musicforprogramming/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-musicforprogramming/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/musicforprogramming/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/musicforprogramming/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Focus music for coding - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-musicforprogramming.git
+git clone https://github.com/JJ-Dynamite/musicforprogramming.git
 cd musicforprogramming
 
 # Install backend dependencies

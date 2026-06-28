@@ -1,4 +1,4 @@
-# Contributing to faang-musicforprogramming
+# Contributing to musicforprogramming
 
 Thank you for your interest in contributing!
 
